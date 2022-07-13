@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://azuanz.netlify.app/sitemap.xml
