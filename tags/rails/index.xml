@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>rails on alienxp03</title>
-    <link>https://azuanz.netlify.app/tags/rails/</link>
+    <link>https://azuanz.com/tags/rails/</link>
     <description>Recent content in rails on alienxp03</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 06 Jun 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://azuanz.netlify.app/tags/rails/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jun 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://azuanz.com/tags/rails/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Upgrading Fave to Rails 5.0</title>
-      <link>https://azuanz.netlify.app/posts/upgrading-fave-to-rails-5.0/</link>
+      <link>https://azuanz.com/posts/upgrading-fave-to-rails-5.0/</link>
       <pubDate>Mon, 06 Jun 2022 11:30:03 +0000</pubDate>
       
-      <guid>https://azuanz.netlify.app/posts/upgrading-fave-to-rails-5.0/</guid>
+      <guid>https://azuanz.com/posts/upgrading-fave-to-rails-5.0/</guid>
       <description>Upgrading Fave to Rails 5.0</description>
     </item>
     
