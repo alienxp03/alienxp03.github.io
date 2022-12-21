@@ -23,7 +23,7 @@ params:
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
   defaultTheme: dark # auto, dark, light
-  disableThemeToggle: false
+  disableThemeToggle: true
 
   ShowReadingTime: true
   ShowShareButtons: false
@@ -87,3 +87,6 @@ menu:
     - identifier: archives
       name: archives
       url: /archives/
+    - identifier: contact
+      name: contact
+      url: /contact/
